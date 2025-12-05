@@ -205,7 +205,7 @@ Feel free to reach out if you have any questions or if you just want to chat abo
  
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Ready+to+accept+the+next+challenges%3B+delivering+resilient+solutions.+✨" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Ready+to+accept+the+next+challenges%3B+delivering+resilient+solutions.;Focused+on+impact%2C+We+transform+difficult+business+challenges+into+elegant+solutions.;Building+scalable+solutions+together%2C+accelerating+technical+growth.;Continuous+growth+is+the+goal%2C+building+secure+solutions+is+the+path+together." />
 
 ---
 
