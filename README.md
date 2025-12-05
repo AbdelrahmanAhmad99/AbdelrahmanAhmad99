@@ -203,7 +203,7 @@ Feel free to reach out if you have any questions or if you just want to chat abo
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail)](mailto:abdelrahmanahmed9909ji@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/AbdelrahmanAhmad99)
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=840&height=50&duration=4000&lines=Ready+to+accept+the+next+challenges%3B+delivering+resilient+solutions.+✨;Focused+on+impact%2C+We+transform+difficult+business+challenges+into+elegant+solutions.+🌟;Building+scalable+solutions+together%2C+accelerating+technical+growth.+🤝;Continuous+growth+is+the+goal%2C+building+secure+solutions+is+the+path+together. 🌱" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=800&height=50&duration=4000&lines=Ready+to+accept+new+challenges%3B+delivering+resilient+solutions.+✨;Focused+on+impact%2C+We+transform+challenges+into+elegant+solutions.+🌟;Building+scalable+solutions+together%2C+accelerating+technical+growth.+🤝;Continuous+growth+is+the+goal%2C+building+secure+solutions+is+the+path+together. 🌱" />
 
 </div>
 
