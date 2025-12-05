@@ -202,10 +202,10 @@ Feel free to reach out if you have any questions or if you just want to chat abo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/abdelrahman-ahmad-77746a240)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail)](mailto:abdelrahmanahmed9909ji@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/AbdelrahmanAhmad99)
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Ready+to+accept+new+challenges%3B+delivering+resilient+solutions.+✨;Focused+on+impact%2C+We+transform+challenges+into+elegant+solutions.+🌟;Building+scalable+solutions+together%2C+accelerating+technical+growth.+🤝;Continuous+growth+is+the+goal%2C+building+secure+solutions+is+the+path+together. 🌱" />
-
+ 
 </div>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=850&height=50&duration=4500&lines=Ready+to+accept+the+next+challenges%3B+delivering+resilient+solutions.+✨;Focused+on+impact%2C+We+transform+difficult+business+challenges+into+elegant+solutions.+🌟;Building+scalable+solutions+together%2C+accelerating+technical+growth.+🤝;Continuous+growth+is+the+goal%2C+building+secure+solutions+is+the+path+together. 🌱" />
 
 ---
 
